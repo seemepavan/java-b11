@@ -4,3 +4,5 @@ classification of computer on the basis of size
 1.Micro computer
 2.Mini computer
 3.Mainframe computer
+classification of computer on the basis of Hardware
+1.Hardware system
